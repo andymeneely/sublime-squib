@@ -1,0 +1,15 @@
+Welcome to Squib for SublimeText!
+=================================
+
+This is a set of snippets for SublimeText to easily write up Squib commands.
+
+Here are the snippets:
+
+* background
+* Squib::Deck.new
+
+Be sure to hit TAB to efficiently jump through the various snippets.
+
+For documentation, don't forget to check out the docs our website:
+
+http://andymeneely.github.io/squib/doc/
