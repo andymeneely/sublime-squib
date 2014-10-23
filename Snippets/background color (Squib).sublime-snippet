@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+background color: ${1::white}
+]]></content>
+	<tabTrigger>background</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>
