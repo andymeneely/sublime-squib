@@ -1,0 +1,7 @@
+These releases are intended keep in line with the Squib releases. 
+
+The current release of Squib is v0.0.4.
+
+In this release:
+
+* Everything! First attempt at this.

@@ -1,15 +1,25 @@
 Welcome to Squib for SublimeText!
 =================================
 
-This is a set of snippets for SublimeText to easily write up Squib commands.
-
-Here are the snippets:
+This is a set of snippets for SublimeText to easily write up Squib commands. Here's what we support:
 
 * background
 * Squib::Deck.new
+* circle
+* hint
+* line
+* png
+* rect
+* save
+* save_pdf
+* save_png
+* Squib::Deck.new
+* svg
+* text
+* triangle
 
 Be sure to hit TAB to efficiently jump through the various snippets.
 
-For documentation, don't forget to check out the docs our website:
+For documentation on Squib commands, don't forget to check out the docs our website:
 
 http://andymeneely.github.io/squib/doc/
