@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+svg file: '${1:icon.svg}'
+]]></content>
+	<tabTrigger>svg</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>

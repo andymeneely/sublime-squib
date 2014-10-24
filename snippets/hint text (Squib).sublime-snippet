@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+hint text: ${1::cyan}
+]]></content>
+	<tabTrigger>hint</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>

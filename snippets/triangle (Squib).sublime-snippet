@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+triangle x1: ${1:0}, y1: ${2:0}, x2: ${3:50}, y2: ${4:50}, x3: ${5:0}, y3: ${6:50}
+]]></content>
+	<tabTrigger>triangle</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>

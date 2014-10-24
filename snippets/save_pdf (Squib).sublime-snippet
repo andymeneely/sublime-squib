@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+save_pdf file: '${1:deck.pdf}'
+]]></content>
+	<tabTrigger>save_pdf</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>
