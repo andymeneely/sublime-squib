@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+save_sheet prefix: '${1:sheet_}', columns: ${2:4}, margin: ${3:75}, gap: ${4:5}, trim: ${5:37}
+]]></content>
+	<tabTrigger>save_sheet</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>
