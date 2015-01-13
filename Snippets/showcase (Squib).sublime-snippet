@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+showcase file: '${1:showcase.png}', range: ${1:0..3}, fill_color: '${3:white}'
+]]></content>
+	<tabTrigger>showcase</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>
