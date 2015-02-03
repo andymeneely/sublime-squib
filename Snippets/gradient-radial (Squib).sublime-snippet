@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+'(${1:x1},${2:y1},${3:r1}) (${4:x2},${5:y2},${6:r2}) ${7:color@stop} ${8:color@stop}'
+]]></content>
+	<tabTrigger>radial gradient (Squib)</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>

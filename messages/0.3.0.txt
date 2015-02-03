@@ -1,0 +1,15 @@
+ _____             _ _          _
+/  ___|           (_) |      /\| |/\
+\ `--.  __ _ _   _ _| |__    \ ` ' /
+ `--. \/ _` | | | | | '_ \  |_     _|
+/\__/ / (_| | |_| | | |_) |  / , . \
+\____/ \__, |\__,_|_|_.__/   \/|_|\/
+          | |
+          |_|
+
+
+These releases are intended keep in line with the Squib releases. This is for Squib v0.3.0
+
+In this release:
+
+* Linear and radial gradient strings

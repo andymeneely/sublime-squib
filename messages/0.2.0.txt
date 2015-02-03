@@ -1,9 +1,0 @@
-Squib has updated, and so has Squib Snippets!
-
-Squib snippets now supports Squib v0.2.0
-
-In this release:
-
-* Support for save_sheet
-* Support for showcase
-* Some bugfixes
