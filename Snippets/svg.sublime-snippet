@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-svg file: '${1:icon.svg}', id:'#{2:svg_id_to_render}'
+svg file: '${1:icon.svg}', id:'${2:svg_id_to_render}'
 ]]></content>
 	<tabTrigger>svg</tabTrigger>
 	<scope>source.ruby</scope>
