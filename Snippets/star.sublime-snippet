@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+star n: ${1:5}, x: ${2:0}, y: ${3:0}, inner_radius: ${4:100}, outer_radius: ${5:200}
+]]></content>
+	<tabTrigger>star</tabTrigger>
+	<scope>source.ruby</scope>
+    <description>star (Squib)</description>
+</snippet>

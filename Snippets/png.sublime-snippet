@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-png file: '$1'
+png file: '${1:filename}.png', x: ${2:0}, y: ${3:0}, width: ${4:300}, height: ${5:300}
 ]]></content>
 	<tabTrigger>png</tabTrigger>
 	<scope>source.ruby</scope>

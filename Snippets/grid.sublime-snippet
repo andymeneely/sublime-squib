@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+grid x: ${1:0}, y: ${2:0}, width: ${3:150}, height: ${4:150}
+]]></content>
+	<tabTrigger>grid</tabTrigger>
+	<scope>source.ruby</scope>
+    <description>grid (Squib)</description>
+</snippet>
