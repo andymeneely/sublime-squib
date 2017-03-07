@@ -4,4 +4,5 @@ line x1:${1:0}, x2:${2:0}, y1: ${3:100}, y2: ${3:100}
 ]]></content>
 	<tabTrigger>line</tabTrigger>
 	<scope>source.ruby</scope>
+    <description>line (Squib)</description>
 </snippet>

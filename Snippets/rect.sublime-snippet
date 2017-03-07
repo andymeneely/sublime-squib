@@ -4,4 +4,5 @@ rect x: ${1:0}, y: ${2:0}, width: ${3:825}, height: ${4:1125}, radius: ${5:25}
 ]]></content>
 	<tabTrigger>rect</tabTrigger>
 	<scope>source.ruby</scope>
+    <description>rect (Squib)</description>
 </snippet>

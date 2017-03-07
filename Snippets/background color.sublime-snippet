@@ -4,4 +4,5 @@ background color: ${1::white}
 ]]></content>
 	<tabTrigger>background</tabTrigger>
 	<scope>source.ruby</scope>
+    <description>background color (Squib)</description>
 </snippet>

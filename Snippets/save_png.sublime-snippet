@@ -4,4 +4,5 @@ save_png prefix: '${1:card_}'
 ]]></content>
 	<tabTrigger>save_png</tabTrigger>
 	<scope>source.ruby</scope>
+    <description>save_png (Squib)</description>
 </snippet>

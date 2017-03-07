@@ -4,4 +4,5 @@ save_pdf file: '${1:deck.pdf}'
 ]]></content>
 	<tabTrigger>save_pdf</tabTrigger>
 	<scope>source.ruby</scope>
+    <description>save_pdf (Squib)</description>
 </snippet>

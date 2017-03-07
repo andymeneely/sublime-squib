@@ -4,4 +4,5 @@ save_sheet prefix: '${1:sheet_}', columns: ${2:4}, margin: ${3:75}, gap: ${4:5},
 ]]></content>
 	<tabTrigger>save_sheet</tabTrigger>
 	<scope>source.ruby</scope>
+    <description>save_sheet (Squib)</description>
 </snippet>
