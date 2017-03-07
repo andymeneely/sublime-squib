@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ellipse x: ${1:0}, y: ${2:0}, width: ${3:825}, height: ${4:1125}
+]]></content>
+	<tabTrigger>ellipse</tabTrigger>
+	<scope>source.ruby</scope>
+    <description>ellipse (Squib)</description>
+</snippet>

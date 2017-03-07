@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+csv file: '${1:filename}.csv'
+]]></content>
+	<tabTrigger>csv</tabTrigger>
+	<scope>source.ruby</scope>
+    <description>csv (Squib)</description>
+</snippet>
