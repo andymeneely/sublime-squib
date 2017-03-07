@@ -4,4 +4,5 @@ text str: '${1:Hello}'
 ]]></content>
 	<tabTrigger>text</tabTrigger>
 	<scope>source.ruby</scope>
+    <description>text (Squib)</description>
 </snippet>

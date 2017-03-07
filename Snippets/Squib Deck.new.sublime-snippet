@@ -6,4 +6,5 @@ end
 ]]></content>
 	<tabTrigger>Squib::Deck.new</tabTrigger>
 	<scope>source.ruby</scope>
+    <description>Squib Deck.new</description>
 </snippet>

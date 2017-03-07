@@ -4,4 +4,5 @@ png file: '$1'
 ]]></content>
 	<tabTrigger>png</tabTrigger>
 	<scope>source.ruby</scope>
+    <description>png (Squib)</description>
 </snippet>

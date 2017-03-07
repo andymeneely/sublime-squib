@@ -4,4 +4,5 @@
 ]]></content>
 	<tabTrigger>linear gradient (Squib)</tabTrigger>
 	<scope>source.ruby</scope>
+    <description>linear gradient (Squib)</description>
 </snippet>

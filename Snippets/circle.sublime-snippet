@@ -4,4 +4,5 @@ circle x: ${1:0}, y: ${2:0}, radius: ${3:100}
 ]]></content>
 	<tabTrigger>circle</tabTrigger>
 	<scope>source.ruby</scope>
+    <description>circle (Squib)</description>
 </snippet>
