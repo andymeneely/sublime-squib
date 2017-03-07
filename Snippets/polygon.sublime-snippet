@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+polygon n: ${1:6}, x: ${2:0}, y: ${3:0}, radius: ${4:100}
+]]></content>
+	<tabTrigger>polygon</tabTrigger>
+	<scope>source.ruby</scope>
+    <description>polygon (Squib)</description>
+</snippet>

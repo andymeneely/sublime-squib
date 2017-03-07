@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+xlsx file: '${1:filename}.xlsx'
+]]></content>
+	<tabTrigger>xlsx</tabTrigger>
+	<scope>source.ruby</scope>
+    <description>xlsx (Squib)</description>
+</snippet>

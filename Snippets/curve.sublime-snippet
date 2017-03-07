@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+curve x1: ${1:0}, y1: ${2:0}, x2: ${3:0}, y2: ${4:0}, cx1: ${5:0}, cy1: ${6:0}, cx2: ${7:0}, cy2: ${8:0}
+]]></content>
+	<tabTrigger>curve</tabTrigger>
+	<scope>source.ruby</scope>
+    <description>curve (Squib)</description>
+</snippet>
