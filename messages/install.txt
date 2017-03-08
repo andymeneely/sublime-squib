@@ -12,23 +12,33 @@ Welcome to Squib for SublimeText!
 
 This is a set of snippets for SublimeText to easily write up Squib commands. Here's what we support:
 
-* background
 * Squib::Deck.new
+* background
 * circle
+* csv
+* curve
+* ellipse
+* grid
 * hint
 * line
 * png
+* polygon
 * rect
 * save
 * save_pdf
 * save_png
-* Squib::Deck.new
+* save_sheet
+* showcase
+* star
 * svg
 * text
 * triangle
+* xlsx
+* linear gradient
+* radial gradient
 
 Be sure to hit TAB to efficiently jump through the various snippets.
 
 For documentation on Squib commands, don't forget to check out the docs our website:
 
-http://andymeneely.github.io/squib/doc/
+http://squib.readthedocs.io/
