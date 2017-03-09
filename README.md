@@ -24,5 +24,5 @@ Simply start typing Squib commands and they will come up with auto-suggest. Be s
 SublimeText 3 Support?
 ======================
 
-This build has been tested against SublimeText 3 build 3065
+This build has been tested against SublimeText 3 build 3125
 
