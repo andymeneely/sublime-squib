@@ -1,3 +1,8 @@
+THIS REPOSITORY IS NO LONGER ACTIVE
+==================================
+
+I no longer use Sublime and haven't maintained this. Use at your own risk.
+
 Sublime Squib
 =================
 
